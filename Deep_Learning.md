@@ -28,6 +28,7 @@
 
 - [temperature_scaling](https://github.com/gpleiss/temperature_scaling), A simple way to calibrate your neural network.
 
+- [conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic), An animation of convolution.
 # Other Resources
 - [darknet 注解](https://github.com/hgpvision/darknet), darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析
 

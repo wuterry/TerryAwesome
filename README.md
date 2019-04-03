@@ -1,6 +1,7 @@
 A list of resources about computer vision, deep learning et.al.
 
 # Computer Vsion
+- [Amazing](Amazing.md)
 - [Attribute](Attribute.md)
 - [Detection](Detection.md)
 - [Face_Recognition](Face_Recognition.md)
